@@ -1,4 +1,10 @@
-### Hi there 👋
+👨‍🏫 Profa iz informatike
+
+Ovdje se uči:
+🚀 HTML/CSS
+🚀 JavaScript/TypeScript
+🚀 Python
+🚀 ostale stvari što iz toga proizlaze...
 
 <!--
 **proflivio/proflivio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
